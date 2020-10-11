@@ -25,6 +25,7 @@ Create a ```.env``` file and set these environment variables
 ```
 MONGO_CONNECTION=Your mongodb uri
 API_URL=Your server address(ex: http://localhost:5500) 
+PORT=Some valid port in your system (default is 5500)
 ```
 
 ## Routes
