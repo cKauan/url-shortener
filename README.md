@@ -40,4 +40,4 @@ I was rusty programming, so i decided to create a simple project to practice som
 You can open an issue or send me a email
 
 ## :scroll: License
-[MIT](https://choosealicense.com/licenses/mit
+[MIT](https://choosealicense.com/licenses/mit/)
